@@ -1,0 +1,16 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "profiles": {
+    "OculusQuestBitrateSwitcher.CompanionApp": {
+      "commandName": "MsixPackage",
+      "commandLineArgs": "", 
+      "alwaysReinstallApp": false, 
+      "remoteDebugEnabled": false, 
+      "allowLocalNetworkLoopbackProperty": true,
+      "authenticationMode": "Windows",
+      "doNotLaunchApp": false,
+      "remoteDebugMachine": "", 
+      "nativeDebugging": false 
+    }
+  }
+}
